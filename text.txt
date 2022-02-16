@@ -1,0 +1,779 @@
+
+Altitude:    224.94 
+data : 2021-05-01 16:52:13.074093
+Temperature: 25.20 C
+Pressure:    986.57 hPa 
+Altitude:    224.50 
+data : 2021-05-01 16:52:18.129364
+Temperature: 25.20 C
+Pressure:    986.55 hPa 
+Altitude:    224.61 
+data : 2021-05-01 16:52:23.184683
+Temperature: 25.10 C
+Pressure:    986.57 hPa 
+Altitude:    224.24 
+data : 2021-05-01 16:52:28.228902
+Temperature: 25.20 C
+Pressure:    986.59 hPa 
+Altitude:    224.68 
+data : 2021-05-01 16:52:33.279900
+Temperature: 25.20 C
+Pressure:    986.57 hPa 
+Altitude:    224.10 
+data : 2021-05-01 16:52:38.324085
+Temperature: 25.20 C
+Pressure:    986.61 hPa 
+Altitude:    223.71 
+data : 2021-05-01 16:52:43.378779
+Temperature: 25.20 C
+Pressure:    986.55 hPa 
+Altitude:    224.50 
+data : 2021-05-01 16:52:48.434097
+Temperature: 25.20 C
+Pressure:    986.59 hPa 
+Altitude:    224.24 
+data : 2021-05-01 16:52:53.487146
+Temperature: 25.20 C
+Pressure:    986.51 hPa 
+Altitude:    224.50 
+data : 2021-05-01 16:52:58.531264
+Temperature: 25.20 C
+Pressure:    986.59 hPa 
+Altitude:    224.55 
+data : 2021-05-01 16:53:03.575252
+Temperature: 25.20 C
+Pressure:    986.62 hPa 
+Altitude:    224.57 
+data : 2021-05-01 16:53:08.623191
+Temperature: 25.20 C
+Pressure:    986.55 hPa 
+Altitude:    224.50 
+data : 2021-05-01 16:53:13.673664
+Temperature: 25.20 C
+Pressure:    986.57 hPa 
+Altitude:    225.27 
+data : 2021-05-01 16:53:18.719346
+Temperature: 25.20 C
+Pressure:    986.57 hPa 
+Altitude:    224.37 
+data : 2021-05-01 16:53:23.763394
+Temperature: 25.20 C
+Pressure:    986.55 hPa 
+Altitude:    224.81 
+data : 2021-05-01 16:53:28.807407
+Temperature: 25.20 C
+Pressure:    986.61 hPa 
+Altitude:    224.81 
+data : 2021-05-01 16:53:33.862585
+Temperature: 25.20 C
+Pressure:    986.61 hPa 
+Altitude:    224.81 
+data : 2021-05-01 16:53:38.920013
+Temperature: 25.20 C
+Pressure:    986.57 hPa 
+Altitude:    223.84 
+data : 2021-05-01 16:53:43.962697
+Temperature: 25.20 C
+Pressure:    986.55 hPa 
+Altitude:    223.97 
+data : 2021-05-01 16:53:49.017897
+Temperature: 25.20 C
+Pressure:    986.59 hPa 
+Altitude:    224.68 
+data : 2021-05-01 16:53:54.071749
+Temperature: 25.20 C
+Pressure:    986.55 hPa 
+Altitude:    224.81 
+data : 2021-05-01 16:53:59.121233
+Temperature: 25.20 C
+Pressure:    986.62 hPa 
+Altitude:    224.24 
+data : 2021-05-01 16:54:04.176830
+Temperature: 25.20 C
+Pressure:    986.55 hPa 
+Altitude:    224.94 
+data : 2021-05-01 16:54:09.222703
+Temperature: 25.20 C
+Pressure:    986.55 hPa 
+Altitude:    224.37 
+data : 2021-05-01 16:54:14.266682
+Temperature: 25.20 C
+Pressure:    986.57 hPa 
+Altitude:    224.68 
+data : 2021-05-01 16:54:19.322078
+Temperature: 25.20 C
+Pressure:    986.59 hPa 
+Altitude:    224.24 
+data : 2021-05-01 16:54:24.366576
+Temperature: 25.20 C
+Pressure:    986.61 hPa 
+Altitude:    224.55 
+data : 2021-05-01 16:54:29.410657
+Temperature: 25.20 C
+Pressure:    986.61 hPa 
+Altitude:    223.58 
+data : 2021-05-01 16:54:34.465824
+Temperature: 25.20 C
+Pressure:    986.57 hPa 
+Altitude:    224.50 
+data : 2021-05-01 16:54:39.510720
+Temperature: 25.20 C
+Pressure:    986.61 hPa 
+Altitude:    224.37 
+data : 2021-05-01 16:54:44.560666
+Temperature: 25.20 C
+Pressure:    986.48 hPa 
+Altitude:    225.47 
+data : 2021-05-01 16:54:49.607285
+Temperature: 25.20 C
+Pressure:    986.49 hPa 
+Altitude:    225.14 
+data : 2021-05-01 16:54:54.651466
+Temperature: 25.20 C
+Pressure:    986.53 hPa 
+Altitude:    225.14 
+data : 2021-05-01 16:54:59.695609
+Temperature: 25.20 C
+Pressure:    986.48 hPa 
+Altitude:    224.62 
+data : 2021-05-01 16:55:04.739539
+Temperature: 25.20 C
+Pressure:    986.47 hPa 
+Altitude:    225.14 
+data : 2021-05-01 16:55:09.794931
+Temperature: 25.20 C
+Pressure:    986.61 hPa 
+Altitude:    224.11 
+data : 2021-05-01 17:04:42.079963
+Temperature: 25.20 C
+Pressure:    986.59 hPa 
+Altitude:    224.88 
+data : 2021-05-01 17:04:47.124238
+Temperature: 25.20 C
+Pressure:    986.64 hPa 
+Altitude:    223.65 
+data : 2021-05-01 17:04:52.178890
+Temperature: 25.20 C
+Pressure:    986.64 hPa 
+Altitude:    224.57 
+data : 2021-05-01 17:04:57.230909
+Temperature: 25.20 C
+Pressure:    986.64 hPa 
+Altitude:    223.38 
+data : 2021-05-01 17:05:02.286304
+Temperature: 25.20 C
+Pressure:    986.51 hPa 
+Altitude:    223.91 
+data : 2021-05-01 17:05:07.342870
+Temperature: 25.20 C
+Pressure:    986.56 hPa 
+Altitude:    224.31 
+data : 2021-05-01 17:05:12.387727
+Temperature: 25.20 C
+Pressure:    986.61 hPa 
+Altitude:    224.17 
+data : 2021-05-01 17:05:17.443133
+Temperature: 25.20 C
+Pressure:    986.51 hPa 
+Altitude:    223.91 
+data : 2021-05-01 17:05:22.498949
+Temperature: 25.20 C
+Pressure:    986.54 hPa 
+Altitude:    224.62 
+data : 2021-05-01 17:05:27.554201
+Temperature: 25.20 C
+Pressure:    986.61 hPa 
+Altitude:    224.57 
+data : 2021-05-01 17:05:32.609086
+Temperature: 25.20 C
+Pressure:    986.50 hPa 
+Altitude:    225.28 
+data : 2021-05-01 17:07:45.065839
+Temperature: 25.30 C
+Pressure:    986.40 hPa 
+Altitude:    225.82 
+data : 2021-05-01 17:22:56.021159
+Temperature: 25.30 C
+Pressure:    986.37 hPa 
+Altitude:    226.28 
+data : 2021-05-01 17:23:01.062141
+Temperature: 25.30 C
+Pressure:    986.36 hPa 
+Altitude:    226.09 
+data : 2021-05-01 17:23:06.103141
+Temperature: 25.30 C
+Pressure:    986.43 hPa 
+Altitude:    226.02 
+data : 2021-05-01 17:23:11.158888
+Temperature: 25.30 C
+Pressure:    986.38 hPa 
+Altitude:    226.48 
+data : 2021-05-01 17:23:16.202374
+Temperature: 25.30 C
+Pressure:    986.39 hPa 
+Altitude:    226.22 
+data : 2021-05-01 17:23:21.247398
+Temperature: 25.30 C
+Pressure:    986.48 hPa 
+Altitude:    226.94 
+data : 2021-05-01 17:23:26.291467
+Temperature: 25.30 C
+Pressure:    986.44 hPa 
+Altitude:    226.15 
+data : 2021-05-01 17:23:33.029166
+Temperature: 25.40 C
+Pressure:    986.23 hPa 
+Altitude:    228.09 
+data : 2021-05-01 17:33:33.143371
+Temperature: 25.50 C
+Pressure:    986.18 hPa 
+Altitude:    227.59 
+data : 2021-05-01 17:43:33.212135
+Temperature: 25.50 C
+Pressure:    986.09 hPa 
+Altitude:    228.92 
+data : 2021-05-01 17:53:33.264514
+Temperature: 25.50 C
+Pressure:    985.99 hPa 
+Altitude:    229.03 
+data : 2021-05-01 18:03:33.414690
+Temperature: 25.50 C
+Pressure:    986.26 hPa 
+Altitude:    227.65 
+data : 2021-05-01 18:13:33.564906
+Temperature: 25.50 C
+Pressure:    986.19 hPa 
+Altitude:    227.58 
+data : 2021-05-01 18:23:33.715153
+Temperature: 25.40 C
+Pressure:    986.39 hPa 
+Altitude:    226.30 
+data : 2021-05-01 18:33:33.865402
+Temperature: 25.30 C
+Pressure:    986.42 hPa 
+Altitude:    225.64 
+data : 2021-05-01 18:43:34.015606
+Temperature: 25.30 C
+Pressure:    986.28 hPa 
+Altitude:    227.47 
+data : 2021-05-01 18:53:34.080082
+Temperature: 25.30 C
+Pressure:    986.19 hPa 
+Altitude:    227.40 
+data : 2021-05-01 19:03:34.230227
+Temperature: 25.30 C
+Pressure:    986.16 hPa 
+Altitude:    228.07 
+data : 2021-05-01 19:13:34.380370
+Temperature: 25.30 C
+Pressure:    986.08 hPa 
+Altitude:    228.67 
+data : 2021-05-01 19:23:34.530550
+Temperature: 25.30 C
+Pressure:    986.00 hPa 
+Altitude:    229.40 
+data : 2021-05-01 19:33:34.643253
+Temperature: 25.40 C
+Pressure:    985.92 hPa 
+Altitude:    230.07 
+data : 2021-05-01 19:43:34.723416
+Temperature: 25.40 C
+Pressure:    985.81 hPa 
+Altitude:    230.35 
+data : 2021-05-01 19:53:34.803435
+Temperature: 25.50 C
+Pressure:    986.07 hPa 
+Altitude:    229.82 
+data : 2021-05-01 20:03:34.935136
+Temperature: 25.40 C
+Pressure:    986.07 hPa 
+Altitude:    229.16 
+data : 2021-05-01 20:13:35.085406
+Temperature: 25.40 C
+Pressure:    986.24 hPa 
+Altitude:    227.05 
+data : 2021-05-01 20:23:35.235642
+Temperature: 25.40 C
+Pressure:    986.53 hPa 
+Altitude:    224.61 
+data : 2021-05-01 20:56:46.283711
+Temperature: 25.40 C
+Pressure:    986.87 hPa 
+Altitude:    222.23 
+data : 2021-05-01 21:06:46.433886
+Temperature: 24.90 C
+Pressure:    987.37 hPa 
+Altitude:    218.51 
+Temperature: 24.90 C
+Pressure:    987.34 hPa 
+Altitude:    217.72 
+Temperature: 24.90 C
+Pressure:    987.28 hPa 
+Altitude:    218.91 
+Temperature: 24.90 C
+Pressure:    987.31 hPa 
+Altitude:    218.12 
+data : 2021-05-01 21:54:54.020570
+Temperature: 24.90 C
+Pressure:    987.40 hPa 
+Altitude:    217.46 
+data : 2021-05-01 21:55:04.061329
+Temperature: 24.90 C
+Pressure:    987.32 hPa 
+Altitude:    217.86 
+data : 2021-05-01 21:55:14.107477
+Temperature: 24.90 C
+Pressure:    987.36 hPa 
+Altitude:    218.12 
+data : 2021-05-01 21:55:24.167789
+Temperature: 24.90 C
+Pressure:    987.31 hPa 
+Altitude:    217.86 
+data : 2021-05-01 21:55:34.225674
+Temperature: 24.90 C
+Pressure:    987.41 hPa 
+Altitude:    217.86 
+data : 2021-05-01 21:55:44.282175
+Temperature: 25.00 C
+Pressure:    987.24 hPa 
+Altitude:    218.59 
+data : 2021-05-01 22:28:36.545821
+Temperature: 25.00 C
+Pressure:    987.37 hPa 
+Altitude:    218.26 
+data : 2021-05-01 22:28:46.594986
+Temperature: 25.00 C
+Pressure:    987.33 hPa 
+Altitude:    217.93 
+data : 2021-05-01 22:28:52.034368
+Temperature: 25.00 C
+Pressure:    987.35 hPa 
+Altitude:    217.60 
+data : 2021-05-01 22:29:02.094988
+Temperature: 25.00 C
+Pressure:    987.35 hPa 
+Altitude:    218.39 
+data : 2021-05-01 22:29:12.155420
+Temperature: 25.00 C
+Pressure:    987.36 hPa 
+Altitude:    217.80 
+data : 2021-05-01 22:29:22.195484
+Temperature: 25.00 C
+Pressure:    987.42 hPa 
+Altitude:    218.20 
+data : 2021-05-01 22:29:32.245385
+Temperature: 25.00 C
+Pressure:    987.34 hPa 
+Altitude:    217.80 
+data : 2021-05-01 22:29:42.305627
+Temperature: 25.00 C
+Pressure:    987.39 hPa 
+Altitude:    218.13 
+data : 2021-05-01 22:29:52.365893
+Temperature: 25.00 C
+Pressure:    987.33 hPa 
+Altitude:    218.00 
+data : 2021-05-01 22:30:02.426204
+Temperature: 24.90 C
+Pressure:    987.36 hPa 
+Altitude:    217.87 
+data : 2021-05-01 22:30:12.485396
+Temperature: 25.00 C
+Pressure:    987.47 hPa 
+Altitude:    216.48 
+data : 2021-05-01 22:34:41.159971
+Temperature: 24.90 C
+Pressure:    987.49 hPa 
+Altitude:    215.30 
+data : 2021-05-01 22:34:51.216294
+Temperature: 24.90 C
+Pressure:    987.55 hPa 
+Altitude:    216.42 
+data : 2021-05-01 22:35:01.268565
+Temperature: 24.90 C
+Pressure:    987.49 hPa 
+Altitude:    215.95 
+data : 2021-05-01 22:35:11.324383
+Temperature: 24.90 C
+Pressure:    987.64 hPa 
+Altitude:    215.95 
+data : 2021-05-01 22:35:21.384486
+Temperature: 24.90 C
+Pressure:    987.56 hPa 
+Altitude:    215.16 
+data : 2021-05-01 22:35:31.444690
+Temperature: 24.90 C
+Pressure:    987.63 hPa 
+Altitude:    216.14 
+data : 2021-05-01 22:35:41.504975
+Temperature: 24.90 C
+Pressure:    987.64 hPa 
+Altitude:    216.28 
+data : 2021-05-01 22:35:51.565484
+Temperature: 24.90 C
+Pressure:    987.64 hPa 
+Altitude:    215.49 
+data : 2021-05-01 22:36:01.614519
+Temperature: 24.90 C
+Pressure:    987.54 hPa 
+Altitude:    215.82 
+data : 2021-05-01 22:36:11.669958
+Temperature: 24.90 C
+Pressure:    987.61 hPa 
+Altitude:    216.08 
+data : 2021-05-01 22:36:21.715252
+Temperature: 24.90 C
+Pressure:    987.61 hPa 
+Altitude:    215.95 
+data : 2021-05-01 22:36:31.766769
+Temperature: 24.90 C
+Pressure:    987.69 hPa 
+Altitude:    215.43 
+data : 2021-05-01 22:36:41.826257
+Temperature: 24.90 C
+Pressure:    987.66 hPa 
+Altitude:    214.71 
+data : 2021-05-01 22:36:51.877179
+Temperature: 23.40 C
+Pressure:    998.23 hPa 
+Altitude:    125.97 
+data : 2021-05-04 10:03:40.448270
+Temperature: 23.40 C
+Pressure:    998.29 hPa 
+Altitude:    126.68 
+data : 2021-05-04 10:03:45.956452
+Temperature: 23.40 C
+Pressure:    998.18 hPa 
+Altitude:    125.71 
+data : 2021-05-04 10:03:55.997233
+Temperature: 23.40 C
+Pressure:    998.12 hPa 
+Altitude:    126.61 
+data : 2021-05-04 10:04:06.047955
+Temperature: 23.40 C
+Pressure:    998.21 hPa 
+Altitude:    125.01 
+data : 2021-05-04 10:04:16.100708
+Temperature: 22.90 C
+Pressure:    998.04 hPa 
+Altitude:    127.38 
+data : 2021-05-04 10:11:03.431456
+Temperature: 22.90 C
+Pressure:    998.05 hPa 
+Altitude:    127.77 
+data : 2021-05-04 10:21:03.481571
+Temperature: 23.10 C
+Pressure:    997.97 hPa 
+Altitude:    128.62 
+data : 2021-05-04 10:31:03.631638
+Temperature: 23.10 C
+Pressure:    997.77 hPa 
+Altitude:    129.19 
+data : 2021-05-04 10:41:03.781777
+Temperature: 23.30 C
+Pressure:    997.69 hPa 
+Altitude:    130.10 
+data : 2021-05-04 10:51:03.833593
+Temperature: 23.40 C
+Pressure:    997.77 hPa 
+Altitude:    130.82 
+data : 2021-05-04 11:01:03.983702
+Temperature: 23.40 C
+Pressure:    997.64 hPa 
+Altitude:    131.02 
+data : 2021-05-04 11:11:04.036557
+Temperature: 23.40 C
+Pressure:    997.45 hPa 
+Altitude:    132.51 
+data : 2021-05-04 11:21:04.107676
+Temperature: 23.40 C
+Pressure:    997.35 hPa 
+Altitude:    132.97 
+data : 2021-05-04 11:31:04.198636
+Temperature: 23.40 C
+Pressure:    997.17 hPa 
+Altitude:    133.88 
+data : 2021-05-04 11:41:04.267035
+Temperature: 23.40 C
+Pressure:    996.99 hPa 
+Altitude:    136.22 
+data : 2021-05-04 11:51:04.417096
+Temperature: 23.40 C
+Pressure:    996.96 hPa 
+Altitude:    136.81 
+data : 2021-05-04 12:01:04.567162
+Temperature: 23.50 C
+Pressure:    996.82 hPa 
+Altitude:    137.46 
+data : 2021-05-04 12:11:04.717122
+Temperature: 23.40 C
+Pressure:    996.66 hPa 
+Altitude:    138.83 
+data : 2021-05-04 12:21:04.867139
+Temperature: 23.60 C
+Pressure:    996.51 hPa 
+Altitude:    139.82 
+data : 2021-05-04 12:31:05.017214
+Temperature: 23.70 C
+Pressure:    996.53 hPa 
+Altitude:    140.84 
+data : 2021-05-04 12:41:05.167240
+Temperature: 23.70 C
+Pressure:    996.39 hPa 
+Altitude:    141.23 
+data : 2021-05-04 12:51:05.317267
+Temperature: 23.70 C
+Pressure:    996.22 hPa 
+Altitude:    142.02 
+data : 2021-05-04 13:01:05.408869
+Temperature: 23.70 C
+Pressure:    996.02 hPa 
+Altitude:    144.04 
+data : 2021-05-04 13:11:05.528408
+Temperature: 23.60 C
+Pressure:    995.92 hPa 
+Altitude:    145.92 
+data : 2021-05-04 13:21:05.648090
+Temperature: 23.80 C
+Pressure:    995.79 hPa 
+Altitude:    146.46 
+data : 2021-05-04 13:31:05.798194
+Temperature: 23.80 C
+Pressure:    995.67 hPa 
+Altitude:    146.72 
+data : 2021-05-04 13:41:05.894765
+Temperature: 23.90 C
+Pressure:    995.56 hPa 
+Altitude:    148.26 
+data : 2021-05-04 13:51:06.014501
+Temperature: 23.80 C
+Pressure:    995.40 hPa 
+Altitude:    149.30 
+data : 2021-05-04 14:01:06.109565
+Temperature: 23.80 C
+Pressure:    995.32 hPa 
+Altitude:    150.48 
+data : 2021-05-04 14:11:06.164169
+Temperature: 23.90 C
+Pressure:    995.09 hPa 
+Altitude:    152.05 
+data : 2021-05-04 14:21:06.314323
+Temperature: 23.90 C
+Pressure:    995.14 hPa 
+Altitude:    151.99 
+data : 2021-05-04 14:31:06.464477
+Temperature: 24.00 C
+Pressure:    995.00 hPa 
+Altitude:    154.02 
+data : 2021-05-04 14:41:06.614610
+Temperature: 24.00 C
+Pressure:    994.80 hPa 
+Altitude:    154.41 
+data : 2021-05-04 14:51:06.764827
+Temperature: 24.00 C
+Pressure:    994.68 hPa 
+Altitude:    156.55 
+data : 2021-05-04 15:01:06.915021
+Temperature: 24.00 C
+Pressure:    994.49 hPa 
+Altitude:    157.47 
+data : 2021-05-04 15:11:07.065181
+Temperature: 24.10 C
+Pressure:    994.29 hPa 
+Altitude:    158.65 
+data : 2021-05-04 15:21:07.215396
+Temperature: 24.10 C
+Pressure:    994.15 hPa 
+Altitude:    160.87 
+data : 2021-05-04 15:31:07.345531
+Temperature: 24.10 C
+Pressure:    993.92 hPa 
+Altitude:    161.59 
+data : 2021-05-04 15:41:07.495685
+Temperature: 24.20 C
+Pressure:    993.79 hPa 
+Altitude:    163.69 
+data : 2021-05-04 15:51:07.598641
+Temperature: 24.30 C
+Pressure:    993.53 hPa 
+Altitude:    165.34 
+data : 2021-05-04 16:01:07.748225
+Temperature: 24.40 C
+Pressure:    993.43 hPa 
+Altitude:    165.54 
+data : 2021-05-04 16:11:07.898367
+Temperature: 24.30 C
+Pressure:    993.32 hPa 
+Altitude:    167.31 
+data : 2021-05-04 16:21:07.993561
+Temperature: 24.30 C
+Pressure:    993.13 hPa 
+Altitude:    168.53 
+data : 2021-05-04 16:31:08.123186
+Temperature: 24.30 C
+Pressure:    992.77 hPa 
+Altitude:    172.17 
+data : 2021-05-04 16:41:08.251814
+Temperature: 24.30 C
+Pressure:    992.68 hPa 
+Altitude:    171.97 
+data : 2021-05-04 16:51:08.402054
+Temperature: 24.20 C
+Pressure:    992.66 hPa 
+Altitude:    172.74 
+data : 2021-05-04 17:01:08.552188
+Temperature: 24.30 C
+Pressure:    992.56 hPa 
+Altitude:    173.28 
+data : 2021-05-04 17:11:08.647015
+Temperature: 24.40 C
+Pressure:    992.54 hPa 
+Altitude:    174.66 
+data : 2021-05-04 17:21:08.797111
+Temperature: 24.50 C
+Pressure:    992.27 hPa 
+Altitude:    175.85 
+data : 2021-05-04 17:31:08.912083
+Temperature: 24.40 C
+Pressure:    992.14 hPa 
+Altitude:    177.09 
+data : 2021-05-04 17:41:09.042113
+Temperature: 24.30 C
+Pressure:    991.91 hPa 
+Altitude:    178.25 
+data : 2021-05-04 17:51:09.174216
+Temperature: 24.40 C
+Pressure:    991.83 hPa 
+Altitude:    179.25 
+data : 2021-05-04 18:01:09.305225
+Temperature: 24.50 C
+Pressure:    991.76 hPa 
+Altitude:    180.84 
+data : 2021-05-04 18:11:09.455436
+Temperature: 24.60 C
+Pressure:    991.64 hPa 
+Altitude:    181.90 
+data : 2021-05-04 18:21:09.602979
+Temperature: 24.70 C
+Pressure:    991.53 hPa 
+Altitude:    182.37 
+data : 2021-05-04 18:31:09.688431
+Temperature: 24.70 C
+Pressure:    991.41 hPa 
+Altitude:    183.67 
+data : 2021-05-04 18:41:09.838669
+Temperature: 24.70 C
+Pressure:    991.23 hPa 
+Altitude:    184.98 
+data : 2021-05-04 18:51:09.955575
+Temperature: 24.70 C
+Pressure:    991.17 hPa 
+Altitude:    185.31 
+data : 2021-05-04 19:01:10.010669
+Temperature: 24.80 C
+Pressure:    991.10 hPa 
+Altitude:    186.30 
+data : 2021-05-04 19:11:10.160828
+Temperature: 24.80 C
+Pressure:    991.15 hPa 
+Altitude:    184.99 
+data : 2021-05-04 19:21:10.310991
+Temperature: 24.50 C
+Pressure:    991.02 hPa 
+Altitude:    187.18 
+data : 2021-05-04 19:31:10.460357
+Temperature: 24.40 C
+Pressure:    991.00 hPa 
+Altitude:    186.90 
+data : 2021-05-04 19:41:10.610566
+Temperature: 24.30 C
+Pressure:    990.97 hPa 
+Altitude:    188.00 
+data : 2021-05-04 19:51:10.746109
+Temperature: 24.40 C
+Pressure:    990.69 hPa 
+Altitude:    189.12 
+data : 2021-05-04 20:01:10.870729
+Temperature: 24.30 C
+Pressure:    990.73 hPa 
+Altitude:    189.83 
+data : 2021-05-04 20:11:11.020885
+Temperature: 24.20 C
+Pressure:    990.53 hPa 
+Altitude:    190.34 
+data : 2021-05-04 20:21:11.171084
+Temperature: 24.20 C
+Pressure:    990.60 hPa 
+Altitude:    190.53 
+data : 2021-05-04 20:31:11.321243
+Temperature: 23.90 C
+Pressure:    990.57 hPa 
+Altitude:    190.43 
+data : 2021-05-04 20:41:11.469556
+Temperature: 23.70 C
+Pressure:    990.57 hPa 
+Altitude:    189.87 
+data : 2021-05-04 20:51:11.537716
+Temperature: 23.30 C
+Pressure:    990.55 hPa 
+Altitude:    190.52 
+data : 2021-05-04 21:01:11.685264
+Temperature: 23.80 C
+Pressure:    990.54 hPa 
+Altitude:    190.47 
+data : 2021-05-04 21:11:20.857944
+Temperature: 24.20 C
+Pressure:    990.73 hPa 
+Altitude:    189.08 
+data : 2021-05-04 21:21:21.008196
+Temperature: 24.30 C
+Pressure:    990.75 hPa 
+Altitude:    189.96 
+data : 2021-05-04 21:31:21.101271
+Temperature: 24.40 C
+Pressure:    990.35 hPa 
+Altitude:    193.16 
+data : 2021-05-04 21:41:21.155387
+Temperature: 24.50 C
+Pressure:    990.50 hPa 
+Altitude:    192.58 
+data : 2021-05-04 21:51:21.305565
+Temperature: 24.50 C
+Pressure:    990.52 hPa 
+Altitude:    191.81 
+data : 2021-05-04 22:01:21.455774
+Temperature: 24.60 C
+Pressure:    990.63 hPa 
+Altitude:    190.73 
+data : 2021-05-04 22:11:21.605912
+Temperature: 24.60 C
+Pressure:    990.39 hPa 
+Altitude:    192.21 
+data : 2021-05-04 22:21:21.756149
+Temperature: 24.60 C
+Pressure:    990.33 hPa 
+Altitude:    192.74 
+data : 2021-05-04 22:31:21.906315
+Temperature: 24.60 C
+Pressure:    990.30 hPa 
+Altitude:    193.53 
+data : 2021-05-04 22:41:22.056492
+Temperature: 24.60 C
+Pressure:    990.19 hPa 
+Altitude:    194.06 
+data : 2021-05-04 22:51:22.118031
+Temperature: 24.60 C
+Pressure:    990.36 hPa 
+Altitude:    193.08 
+data : 2021-05-04 23:01:22.268288
+Temperature: 24.60 C
+Pressure:    990.24 hPa 
+Altitude:    193.73 
+data : 2021-05-04 23:11:22.417845
+Temperature: 24.60 C
+Pressure:    990.24 hPa 
+Altitude:    193.40 
+data : 2021-05-04 23:21:22.553750
+Temperature: 24.40 C
+Pressure:    990.31 hPa 
+Altitude:    193.11 
