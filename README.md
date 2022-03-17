@@ -8,4 +8,4 @@ Raspberry Pi project. We were a team of 3 people and we had to put 3 sensors on 
 
 -altitude. 
 
-After that, my job was to take the data from the sensors and make the medium temperature, altitude and umidity/day.
+After that, my job was to take the data from the sensors and make the medium temperature, altitude and umidity per day.
